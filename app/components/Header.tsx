@@ -27,7 +27,7 @@ function Header({ isDarkMode }: Props) {
         transition={{ duration: 0.6, delay: 0.3 }}
         className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-ovo"
       >
-        Hey! I'm Laxman Katneni{" "}
+        Hey! I&apos;m Laxman Katneni{" "}
         <Image src={assets.hand_icon} alt="hand_icon" className="w-6" />
       </motion.h3>
       <motion.h1
