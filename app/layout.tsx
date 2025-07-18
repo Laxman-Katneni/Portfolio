@@ -46,7 +46,7 @@ const ovo = Ovo({
 // Now change it in rootlayout
 
 export const metadata: Metadata = {
-  title: "Portfolio",
+  title: "Laxman Katneni Portfolio",
   description: "Laxman Katneni Portfolio Website",
 };
 
