@@ -102,23 +102,23 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Launch Path",
-    description: "AI Saas Product",
+    title: "BudgetIQ",
+    description: "AI Finance Platform",
     bgImage: "/work-4.png",
   },
   {
-    title: "InsightIQ",
-    description: "Data Analytics Viz Tool",
+    title: "ChatOn",
+    description: "Full-Stack Chat Application",
     bgImage: "/work-4.png",
   },
   {
-    title: "FitGpt",
+    title: "AI Fitness Platform",
+    description: "AI Fitness Planner - Will Be Deployed Soon",
+    bgImage: "/work-4.png",
+  },
+  {
+    title: "AI Fitness Chatbot",
     description: "AI Fitness Chatbot",
-    bgImage: "/work-4.png",
-  },
-  {
-    title: "NotionX",
-    description: "Collaborative Text Editor",
     bgImage: "/work-4.png",
   },
 ];
@@ -184,3 +184,4 @@ export const toolsData = [
   assets.figma,
   assets.git,
 ];
+
